@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    /*background:#366e8f;*/
+}
+
+header {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 10px solid rgb(0, 174, 255);
+}
+
+header h1{
+    font-size: 2em;
+    color: black; 
+}
+
+header nav ul li {
+    display: inline;
+}
+
+a{
+    color: rgb(18, 160, 221)
+}
+
+a:hover {
+    color: rgb(133, 210, 245);
+}
+
+.clear{
+    clear: both;
+}
+
+#projects {
+    margin: 0 auto; /* centers projects dive */
+    width: 90%; /*adds space on either side*/
+    max-width: 1200px; /* keeps div from getting too wide */
+}
+.project {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(0, 174, 255)
+}
+
+
+.project img {
+    width:250px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.project h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#projects, #aboutme{
+    margin
+}
+/* color: defines the text color
+        https://katescolorpicker.surge.sh/
+    font-family: defines font
+    font-size: defines text size
+    border: defines border around an element
+    padding defines space between text and border
+    magin defines margin outside border
+    id="#" defines a style for one element
+            # targets an id
+    class=" " defines a style for elements with the specific class 
+            . tragets a class */
+
+/* selector{
+    property:value;
+}*/
+                                                                     
