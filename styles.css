@@ -54,6 +54,9 @@ a:hover {
     margin-bottom: 10px;
 }
 
+#aboutme div p{
+    font-size: 1em;
+}
 
 /* color: defines the text color
         https://katescolorpicker.surge.sh/
