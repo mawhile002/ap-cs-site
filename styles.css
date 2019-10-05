@@ -42,14 +42,14 @@ a:hover {
 }
 
 
-.project img, .aboutme img{
+.project img, #aboutme img{
     width:250px;
     float: left;
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 10px;
 }
-.project h2, .aboutme h2{
+.project h2, #aboutme h2{
     font-size: 1.5em;
     margin-bottom: 10px;
 }
