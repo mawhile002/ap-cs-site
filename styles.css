@@ -49,11 +49,13 @@ a:hover {
     margin-left: 10px;
     margin-bottom: 10px;
 }
-.project h2, #aboutme h2{
+.project h2{
     font-size: 1.5em;
     margin-bottom: 10px;
 }
 
+#aboutme h2{
+    font-size: 1.5em;
 
 /* color: defines the text color
         https://katescolorpicker.surge.sh/
