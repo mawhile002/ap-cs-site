@@ -10,7 +10,7 @@ header {
 }
 
 header h1{
-    font-size: 2em;
+    font-size: 5em;
     color: black; 
 }
 
@@ -35,7 +35,7 @@ a:hover {
 #projects, #aboutme {
     margin: 0 auto; /* centers projects dive */
     width: 90%; /*adds space on either side*/
-    max-width: 800px; /* keeps div from getting too wide */
+    max-width: 1000px; /* keeps div from getting too wide */
 }
 
 .project {
@@ -52,7 +52,7 @@ a:hover {
     margin-bottom: 10px;
 }
 .project h2, #aboutme h2{
-    font-size: 1.5em;
+    font-size: 3em;
     margin-bottom: 10px;
 }
 
