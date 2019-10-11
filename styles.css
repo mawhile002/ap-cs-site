@@ -56,6 +56,9 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.description {
+    text-indent: 25%;
+}
 
 /* color: defines the text color
         https://katescolorpicker.surge.sh/
