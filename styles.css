@@ -10,7 +10,7 @@ header {
 }
 
 header h1{
-    font-size: 5em;
+    font-size: 3.5em;
     color: black; 
 }
 
@@ -52,12 +52,12 @@ a:hover {
     margin-bottom: 10px;
 }
 .project h2, #aboutme h2{
-    font-size: 3em;
+    font-size: 2em;
     margin-bottom: 10px;
 }
 
 .description {
-    text-indent: 5%;
+    text-indent: 2.5%;
 }
 
 /* color: defines the text color
