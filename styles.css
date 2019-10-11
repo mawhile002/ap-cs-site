@@ -45,7 +45,7 @@ a:hover {
 
 
 .project img, #aboutme img{
-    width:250px;
+    width:400px;
     float: left;
     margin-right: 10px;
     margin-left: 10px;
@@ -58,6 +58,7 @@ a:hover {
 
 .description {
     text-indent: 2.5%;
+    line-height:1.5em;
 }
 
 /* color: defines the text color
