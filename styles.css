@@ -35,7 +35,7 @@ a:hover {
 #projects, #aboutme {
     margin: 0 auto; /* centers projects dive */
     width: 90%; /*adds space on either side*/
-    max-width: 1200px; /* keeps div from getting too wide */
+    max-width: 800px; /* keeps div from getting too wide */
 }
 
 .project {
