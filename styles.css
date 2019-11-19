@@ -19,7 +19,8 @@ header nav ul li {
 }
 
 a{
-    color: rgb(18, 160, 221)
+    color: rgb(18, 160, 221);
+    text-align:center; 
 }
 
 a:hover {
